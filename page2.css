@@ -1,0 +1,13 @@
+.header
+{
+	background-image:url('antarctica.jpg');
+	background-size:cover;
+	margin-top:-20px;
+}
+.header .col-md-2
+{
+	background-color:#3A5350;
+	border-radius:20px;
+	height:200px;
+	
+}
