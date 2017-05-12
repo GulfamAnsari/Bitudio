@@ -4,10 +4,13 @@
 	background-size:cover;
 	margin-top:-20px;
 }
-.header .col-md-2
+.header .col-md
 {
 	background-color:#3A5350;
 	border-radius:20px;
 	height:200px;
+	width:200px;
+	display:inline-block;
+	margin:20px;
 	
 }
